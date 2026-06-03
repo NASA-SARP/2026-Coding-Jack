@@ -1,0 +1,9 @@
+# Private planning and resources
+resources/
+lecture-plan.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
